@@ -1,8 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
 #include <stdio.h>
-/* betty style doc for function main goes there */
+/**
+ * main - check value of n
+ *
+ * Return 0 always
+ */
 int main(void)
 {
 	int n;
