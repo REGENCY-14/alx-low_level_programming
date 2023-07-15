@@ -4,7 +4,7 @@
 /**
  * main - check value of n
  *
- * Return 0 always
+ * Return: 0 always
  */
 int main(void)
 {
